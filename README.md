@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&desc=sanggyunbak's%20github%20repository&fontSize=90)
 ### Hi there 👋
 <p align="center">
-## Tech Stack
+<h3>Tech Stack</h3>
 #Te
 <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"></span>
