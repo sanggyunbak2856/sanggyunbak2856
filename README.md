@@ -11,7 +11,7 @@ I'm sanggyun bak who is interested in backend developing
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
-<span><img src="https://img.shields.io/badge/java-4479A1?style=flat&logo=mysql&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/java-4479A1?style=flat&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"></span>
