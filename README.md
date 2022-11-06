@@ -1,3 +1,4 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&desc=sanggyunbak's%20github%20repository&fontSize=90)
 ### Hi there 👋
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -31,6 +32,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanggyunbak2856&show_icons=true&theme=radical)
-</p>
+  
+  
+
+</div>
