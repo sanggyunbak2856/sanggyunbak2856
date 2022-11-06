@@ -1,6 +1,8 @@
 <div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&desc=sanggyunbak's%20github%20repository&fontSize=90)
 ### Hi there 👋
+I'm sanggyun bak who is interested in backend developing!!
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
 <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"></span>
