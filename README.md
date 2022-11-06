@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Tech Stack
-<img src="https://img.shields.io/badge/brightgreen?style=flat-square&logo=springboot&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/brightgreen?style=flat-square&logo=spring%20boot&logoColor=white"/></a>&nbsp 
 
 
 <!--
